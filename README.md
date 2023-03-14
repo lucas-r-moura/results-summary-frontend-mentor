@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Repository](https://github.com/lucas-r-moura/results-summary-frontend-mentor)
+- Live Site URL: [Live Solution](https://lucas-r-moura.github.io/results-summary-frontend-mentor/)
 
 ## My process
 
